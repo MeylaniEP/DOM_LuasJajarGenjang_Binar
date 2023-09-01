@@ -1,0 +1,42 @@
+{
+    "kelompok": 5,
+    "anggota": [
+      {
+        "nama": "Zulfa",
+        "posisi": "Ketua Kelompok",
+        "mitra": "Binar",
+        "divisi": "FEJS-1",
+        "umur": 20
+      },
+      {
+        "nama": "Iqbal",
+        "posisi": "Anggota Kelompok",
+        "mitra": "Binar",
+        "divisi": "FEJS-1",
+        "umur": 20
+      },
+      {
+        "nama": "Meylani",
+        "posisi": "Anggota Kelompok",
+        "mitra": "Binar",
+        "divisi": "FEJS-1",
+        "umur": 20
+      },
+      {
+        "nama": "Anwar",
+        "posisi": "Anggota Kelompok",
+        "mitra": "Binar",
+        "divisi": "FEJS-1",
+        "umur": 20
+      },
+      {
+        "nama": "Farhan",
+        "posisi": "Anggota Kelompok",
+        "mitra": "Binar",
+        "divisi": "FEJS-1",
+        "umur": 20
+      }
+    ]
+  }
+  
+
